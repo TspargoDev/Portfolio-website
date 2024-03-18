@@ -119,7 +119,7 @@ button:focus {
 	display: inline-block;
 }
 
-.thread {
+.table {
 	background-color: #000;
 	color: white;
 	border: 5px;

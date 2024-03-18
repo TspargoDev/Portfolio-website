@@ -107,7 +107,7 @@ button:focus {
 	border-radius: 15px;
 	display: inline-block;
 }
-.thread {
+.table {
 	background-color: black;
 	color: white;
 	border: 5px;
