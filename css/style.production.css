@@ -67,7 +67,9 @@ a:hover,
 a:focus {
 	color: #ffd700;
 }
-
+.check-projects {
+	color: white;
+}
 button {
 	border: none;
 	font-family: 'archivo black', sans-serif;
